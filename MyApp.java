@@ -25,4 +25,8 @@ public class main {
 	}
 	
 	public changePrice(){}
+
+	public changeBalance(int newvalue)
+	{}
+
 }
